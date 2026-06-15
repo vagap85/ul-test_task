@@ -1,8 +1,8 @@
 # Блок 1: ЭТрН — тестирование
 
 **Исходники:** 
-- BPMN (ссылка из ТЗ)
-- XSD (ссылка из ТЗ)
+- BPMN [https://disk.360.yandex.ru/i/ob6qR1zF2NN_qA](url)
+- XSD [https://www.nalog.gov.ru/rn77/about_fts/docs/14975031/](url)
 
 ## 1. Что я проверил бы в первую очередь (чек-лист)
 
